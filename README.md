@@ -40,6 +40,32 @@ Install python3 and mage on it then Start mage project then Connecting to the ma
 **Simplified UI !**
 ![mage UI](https://github.com/hafsaelgha/ETL-Data-Pipeline-on-GCP-for-Uber-Data-analytics/assets/99973359/711d7a77-02b8-4109-89b3-c8e14074ce65)
 
+## 7-ETL 
+Every stage is shown as a block that rely on the other block : 
+![final ETL ](https://github.com/hafsaelgha/ETL-Data-Pipeline-on-GCP-for-Uber-Data-analytics/assets/99973359/47938ac4-dce3-4159-a82f-55f10ca931c7)
+
+## 8-BigQuery 
+### Service account 
+Check the service account to add ur credential to config.yaml file
+![service account](https://github.com/hafsaelgha/ETL-Data-Pipeline-on-GCP-for-Uber-Data-analytics/assets/99973359/4598baf7-ce37-4801-b422-8df69fb63b6c)
+
+### Query for analytic table 
+![query for analytic table](https://github.com/hafsaelgha/ETL-Data-Pipeline-on-GCP-for-Uber-Data-analytics/assets/99973359/8eb37870-3729-4ba7-9913-cf965ee0b06f)
+
+### Analytic table schema 
+![analytic table schema](https://github.com/hafsaelgha/ETL-Data-Pipeline-on-GCP-for-Uber-Data-analytics/assets/99973359/fc25f84b-f2b6-45a9-b056-a49813945891)
+
+### 9-Dashboard 
+![dashboard](https://github.com/hafsaelgha/ETL-Data-Pipeline-on-GCP-for-Uber-Data-analytics/assets/99973359/30b0ed7b-9e85-4e82-8893-ebbdab999a08)
+
+![dashboard 2](https://github.com/hafsaelgha/ETL-Data-Pipeline-on-GCP-for-Uber-Data-analytics/assets/99973359/c430849e-bf1c-4052-a1e0-e467461bc348)
+
+and here is the final link for Dashboard : https://lookerstudio.google.com/s/rgrecwiQS2c
+
+
+
+
+
 
 
 
