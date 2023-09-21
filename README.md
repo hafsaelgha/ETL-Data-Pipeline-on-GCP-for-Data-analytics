@@ -14,26 +14,29 @@ The goal of this project is to perform data analytics on Uber data using various
 ## 3-Data Dimensional modelling
 ![data dimensional modeling ](https://github.com/hafsaelgha/ETL-Data-Pipeline-on-GCP-for-Uber-Data-analytics/assets/99973359/a37510c8-3fbe-4f39-b726-e4cb54a13add)
 
-## 4-Steps and Remarks 
+## Steps and Remarks 
 ### I will include errors to avoid during this project too ! 
-### Storage on GCS
+## 4-Storage on GCS
 Converting from parquet file to csv file and store it on google cloud storage.
 The Parquet format is based on a columnar structure, which means that data is organized in columns rather than rows. This allows for efficient data compression and better resource utilization when executing queries.
 ![object ](https://github.com/hafsaelgha/ETL-Data-Pipeline-on-GCP-for-Uber-Data-analytics/assets/99973359/678293e7-2859-4f1b-8800-4881caca399c)
 **About Configuration of your bucket** : 
 **Public API Object** : to extract data from it as a **public API** by using it’s URL.
 
-### Compute Engine 
+## 5-Compute Engine 
 See the basic configuration I used for my instance : 
 ![VM basic info](https://github.com/hafsaelgha/ETL-Data-Pipeline-on-GCP-for-Uber-Data-analytics/assets/99973359/597475c4-b6cb-4e9c-9344-541453cc87d1)
 ![VM config](https://github.com/hafsaelgha/ETL-Data-Pipeline-on-GCP-for-Uber-Data-analytics/assets/99973359/fa05ac9c-83e1-40a7-8c47-facf9d885ea1)
 **Firewall : allow HTTP and HTTPS traffic**
 Check if its allow access to port running mage on it (configure the VPC network by adding a mage-access-rule tcp:6789)
+
 ![VM firewalls](https://github.com/hafsaelgha/ETL-Data-Pipeline-on-GCP-for-Uber-Data-analytics/assets/99973359/5c911d00-dc9d-4aca-9311-7cd467442af4)
-Install python3 and mage on it then Start mage project then Connecting to the machine trough its **IP4:6789** Then you have accezs to mage online ! 
+
+Install python3 and mage on it then Start mage project then Connecting to the machine trough its **IP4:6789** Then you have accezs to mage online !
+
 ![running mage](https://github.com/hafsaelgha/ETL-Data-Pipeline-on-GCP-for-Uber-Data-analytics/assets/99973359/1fb7e78d-ee46-4bb3-bb4a-6bdf20314e96)
 
-### Mage 
+## 6-Mage 
 **Simplified UI !**
 ![mage UI](https://github.com/hafsaelgha/ETL-Data-Pipeline-on-GCP-for-Uber-Data-analytics/assets/99973359/711d7a77-02b8-4109-89b3-c8e14074ce65)
 
