@@ -16,6 +16,14 @@ The goal of this project is to perform data analytics on Uber data using various
 
 ## 4-Steps and Remarks 
 ### I will include errors to avoid during this project too ! 
+### Storage on GCS
+Converting from parquet file to csv file and store it on google cloud storage.
+The Parquet format is based on a columnar structure, which means that data is organized in columns rather than rows. This allows for efficient data compression and better resource utilization when executing queries.
+![object ](https://github.com/hafsaelgha/ETL-Data-Pipeline-on-GCP-for-Uber-Data-analytics/assets/99973359/678293e7-2859-4f1b-8800-4881caca399c)
+**About Configuration of your bucket** : 
+**Public API Object** : to extract data from it as a **public API** by using it’s URL.
+
+
 
 
 
