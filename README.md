@@ -11,6 +11,11 @@ The goal of this project is to perform data analytics on Uber data using various
 - [ ] Looker Studio : free tool that turns your data into informative, easy to read, easy to share, and fully customizable dashboards and reports.
 
 
-## 3-Data modelling
+## 3-Data Dimensional modelling
+![data dimensional modeling ](https://github.com/hafsaelgha/ETL-Data-Pipeline-on-GCP-for-Uber-Data-analytics/assets/99973359/a37510c8-3fbe-4f39-b726-e4cb54a13add)
+
+## 4-Steps and Remarks 
+### I will include errors to avoid during this project too ! 
+
 
 
