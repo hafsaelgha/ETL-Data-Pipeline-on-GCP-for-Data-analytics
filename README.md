@@ -1,4 +1,4 @@
-![image](https://github.com/hafsaelgha/ETL-Data-Pipeline-on-GCP-for-Uber-Data-analytics/assets/99973359/3fafad10-8872-4042-a5eb-e6fbb2c871ac)# ETL-Data-Pipeline-on-GCP-for-Uber-Data-analytics
+# ETL-Data-Pipeline-on-GCP-for-Uber-Data-analytics
 **1-Introduction**
 The goal of this project is to perform data analytics on Uber data using various tools and technologies, including GCP Storage, Python, ComputeEngine, Mage Data Pipeline Tool, BigQuery, and Looker Studio.
 
