@@ -38,6 +38,7 @@ Install python3 and mage on it then Start mage project then Connecting to the ma
 
 ## 6-Mage 
 **Simplified UI !**
+Mage provides a pre defined function for every stage on yout pipeline, all you have to do is to make it suits your use case ! 
 ![mage UI](https://github.com/hafsaelgha/ETL-Data-Pipeline-on-GCP-for-Uber-Data-analytics/assets/99973359/711d7a77-02b8-4109-89b3-c8e14074ce65)
 
 ## 7-ETL 
@@ -46,7 +47,7 @@ Every stage is shown as a block that rely on the other block :
 
 ## 8-BigQuery 
 ### Service account 
-Check the service account to add ur credential to config.yaml file
+Check the service account to add ur credential to **config.yaml** file
 ![service account](https://github.com/hafsaelgha/ETL-Data-Pipeline-on-GCP-for-Uber-Data-analytics/assets/99973359/4598baf7-ce37-4801-b422-8df69fb63b6c)
 
 ### Query for analytic table 
