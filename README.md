@@ -23,6 +23,12 @@ The Parquet format is based on a columnar structure, which means that data is or
 **About Configuration of your bucket** : 
 **Public API Object** : to extract data from it as a **public API** by using it’s URL.
 
+### Compute Engine 
+See the basic configuration I used for my instance : 
+![VM basic info](https://github.com/hafsaelgha/ETL-Data-Pipeline-on-GCP-for-Uber-Data-analytics/assets/99973359/597475c4-b6cb-4e9c-9344-541453cc87d1)
+![VM config](https://github.com/hafsaelgha/ETL-Data-Pipeline-on-GCP-for-Uber-Data-analytics/assets/99973359/fa05ac9c-83e1-40a7-8c47-facf9d885ea1)
+
+
 
 
 
